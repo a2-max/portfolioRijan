@@ -15,6 +15,9 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   position: relative;
   background-color: #020c1b;
 }
@@ -49,7 +52,6 @@
 }
 
 .container .right {
-    margin-left: 150px;
   width: 100%;
   height: 100%;
   min-height: 100vh;
@@ -180,7 +182,7 @@
 }
 
 .container .right .hero .heading {
-  margin-left: 100px;
+  margin-left: 30px;
   color: #b0b9c7;
   font-size: 55px;
   font-weight: bold;
@@ -262,7 +264,7 @@
 
 .container .right .hero .sub-heading {
   color: #fff6;
-  margin-left: 100px;
+  margin-left: 30px;
   width: 330px;  
   animation: subHeadingAnimation var(--i) ease ;
 }

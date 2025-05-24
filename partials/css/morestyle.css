@@ -4,7 +4,7 @@
   padding-bottom: 50px;
 }
 .container .skills-section {
-  padding: 100px 10px 0 100px;
+  padding: 100px 10px 0 30px;
 }
 .container .skills-section .skill-title {
   color: #b0b9c7;
@@ -47,7 +47,7 @@
 }
 .container .about .left-about {
   width: 50%;
-  padding-left: 100px;
+  padding-left: 30px;
 }
 .container .about .left-about .title {
   font-size: 40px;
@@ -138,7 +138,7 @@
   }
 }
 .container .project-section {
-  padding: 100px 10px 0 100px;
+  padding: 100px 10px 0 30px;
 }
 .container .project-section .title {
   font-size: 30px;
