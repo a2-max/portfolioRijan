@@ -1,8 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
-.container {
-  padding-bottom: 50px;
-}
 .container .skills-section {
   padding: 100px 10px 0 30px;
 }
@@ -422,6 +419,7 @@
 .container footer {
   text-align: center;
   margin-top: 50px;
+  margin-bottom: 20px;
   color: #8b8d91;
   font-size: 14px;
 }

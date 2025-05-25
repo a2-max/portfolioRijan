@@ -24,10 +24,6 @@ fetch(url)
                 <i class="fa-solid fa-arrow-up-right-from-square link"></i>
                 <p class="post-title title1">${data.items[i].title}</p>
                 <p class="content"></p>
-                <p class="tags">${
-                    data.items[i].labels[0]
-                } - ${data.items[i].labels[2]}
-                </p>
                 </a>`;
                 blogs.appendChild(card);
         }
